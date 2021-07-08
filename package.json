@@ -11,7 +11,7 @@
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
     "emoji-mart": "^3.0.0",
-    "firebase": "^7.14.2",
+    "firebase": "^8.7.1",
     "firebase-tools": "^8.5.0",
     "jquery": "^3.5.1",
     "md5": "^2.2.1",
